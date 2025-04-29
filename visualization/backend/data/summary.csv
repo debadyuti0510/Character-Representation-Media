@@ -1,0 +1,2 @@
+perc_fem_val,perc_mal_val,perc_fem_val_pred,perc_mal_val_pred,perc_ut50_val,perc_o50_val,perc_ut50_val_pred,perc_o50_val_pred,perc_ut50_direct_val_pred,perc_o50_direct_val_pred,avg_conf_gender_blackpanther,avg_conf_age_blackpanther,avg_conf_direct_age_blackpanther,avg_conf_gender_mamamia,avg_conf_age_mamamia,avg_conf_direct_age_mamamia,avg_conf_gender_marigold,avg_conf_age_marigold,avg_conf_direct_age_marigold
+47.12,52.88,47.39,52.61,88.73,11.27,89.96,10.04,89.54,10.46,0.9856,0.9211,0.5519,0.9716,0.8682,0.5138,0.9564,0.8603,0.53

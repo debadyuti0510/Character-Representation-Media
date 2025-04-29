@@ -2,7 +2,6 @@
 experiment/
 __pycache__/
 Demography_experiments/*.npy
-*.csv
 */embeddings/
 benchmarks/**/*.npy
 AgeResults.txt
