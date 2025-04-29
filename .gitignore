@@ -4,5 +4,8 @@ __pycache__/
 Demography_experiments/*.npy
 */embeddings/
 benchmarks/**/*.npy
+pipeline/*.csv
+pipeline/data/*
+benchmarks/*.csv
 AgeResults.txt
 age_exp.tex
