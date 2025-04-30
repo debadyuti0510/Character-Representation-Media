@@ -1,5 +1,7 @@
 # Character Representation Analysis in Media
 
+![Image](https://github.com/user-attachments/assets/edfa1e8b-c261-4504-9d24-a8c56c61951e)
+
 ## Pipeline
 This project includes a complete pipeline to extract demographic attributes such as age, gender, race, and emotion from media content. The tool processes videos and outputs either interactive dashboards or structured CSV files for further analysis. It is designed for minimal setup and rapid deployment.
 
